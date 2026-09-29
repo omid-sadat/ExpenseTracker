@@ -101,7 +101,7 @@ class ExpenseCard extends StatelessWidget {
                   color: AppTheme.gold,
                   size: 20,
                 ),
-                onPressed: onEdit,
+                onPressed: onEdit, //ikuhgku
               ),
 
               IconButton(
